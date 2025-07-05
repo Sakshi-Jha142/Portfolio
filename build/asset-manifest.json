@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcf0a3d9.css",
+    "main.js": "/static/js/main.fea6ec14.js",
+    "static/media/MovieReview.png": "/static/media/MovieReview.480f27453d81c17031ec.png",
+    "static/media/Weather.png": "/static/media/Weather.828578ec1dc4a40ba39c.png",
+    "static/media/FruitMatcherGame.png": "/static/media/FruitMatcherGame.8b01b9e26e5278d0a903.png",
+    "static/media/TaskManager.png": "/static/media/TaskManager.cbfb513caf323f15db91.png",
+    "static/media/Avatars.png": "/static/media/Avatars.43607a0bd8d9c3abba44.png",
+    "static/media/Resume.pdf": "/static/media/Resume.9793059d4e5c1cb80999.pdf",
+    "index.html": "/index.html",
+    "main.bcf0a3d9.css.map": "/static/css/main.bcf0a3d9.css.map",
+    "main.fea6ec14.js.map": "/static/js/main.fea6ec14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf0a3d9.css",
+    "static/js/main.fea6ec14.js"
+  ]
+}
